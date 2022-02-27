@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Kings Majesties most gracious messages for peace: sent to the two Houses of Parliament at Westminster. Charles R. Our pleasure and command is, that these messages, with their answers, be forthwith published in all churches and chappels within our dominions. Printed at Oxford by Leonard Lichfield printer to the Vniversity. 1645. With a full answer thereunto in the behalfe of the Parliament.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78713</idno>
+            <idno type="STC">Wing C2214</idno>
+            <idno type="STC">Thomason E320_3</idno>
+            <idno type="STC">ESTC R200566</idno>
+            <idno type="EEBO-CITATION">99861281</idno>
+            <idno type="PROQUEST">99861281</idno>
+            <idno type="VID">113412</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113412)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E320[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Kings Majesties most gracious messages for peace: sent to the two Houses of Parliament at Westminster. Charles R. Our pleasure and command is, that these messages, with their answers, be forthwith published in all churches and chappels within our dominions. Printed at Oxford by Leonard Lichfield printer to the Vniversity. 1645. With a full answer thereunto in the behalfe of the Parliament.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649. Collection of His Majesties most gracious messages for peace.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Matthew Walbank, February 2. 1645. with the answer.,</publisher>
+                  <pubPlace>And reprinted at London :</pubPlace>
+                  <date>[1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reprint, with additions, of: Charles I. A collection of His Maiesties most gracious messages for peace (Wing C2158). Cf. Madan, II, 1835.</note>
+                  <note>Wing has publication year 1645[/6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="correspondence">
+            <pb facs="tcp:113412:1"/>
+            <pb n="3" facs="tcp:113412:1"/>
+            <head>A Collection of His Majeſties Gracious Meſſages for Peace, ſent to the two Houſes of Parliament at <hi>Weſtminſter</hi> ſince the 5 of <hi>Dec.</hi> 1645.</head>
+            <div type="royal_letter">
+               <opener>
+                  <signed>CHARLES R.</signed>
+               </opener>
+               <p>
+                  <seg rend="decorInit">H</seg>IS Majeſty being deeply ſenſible of the Continuation of this bloody and unnatural War, cannot think Himſelf diſcharg'd of the duty he owes to <hi>God,</hi> or the affection and regard He hath to the preſervation of His People, without the con<g ref="char:EOLhyphen"/>ſtant application of His earneſt endeavours to finde ſome expedient for the ſpeedy ending of theſe un<g ref="char:EOLhyphen"/>happy Diſtractions, if that may be, doth therefore deſire, That a ſafe Conduct may be forthwith ſent, for the Duke of <hi>Richmond,</hi> the Earl of <hi>Southampton, John Aſhburnham,</hi> and <hi>Jeffery, Palmer</hi> Eſquires, and their Attendants, with Coaches, Horſes, and other Accommodations for their Journey to <hi>Weſtminſter,</hi> during their ſtay there, and return when they ſhall think fit. Whom His Majeſty intends to ſend to the Lords and Commons aſſembled in the Parliament of <hi>England</hi> at <hi>Weſtminſter,</hi> and the Commiſſioners of the Parliament of <hi>Scotland,</hi> furniſhed with ſuch Propoſitions, as His Majeſty is confident will be the Foundation of a happy and well-grounded Peace.</p>
+               <closer>
+                  <dateline>Given at the Court at <hi>Oxford</hi> 
+                     <date>the <hi>5.</hi> of <hi>Decem. 1645.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+               <trailer>For the Speaker of the Houſe of Peers <hi>pro tempore.</hi>
+               </trailer>
+            </div>
+            <div type="Parliamentary_response">
+               <pb n="4" facs="tcp:113412:2"/>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <hi>VVE have received Your Letter of the fifth of this inſtant December, with His Majesties in<g ref="char:EOLhyphen"/>cloſed, and have ſent back Your Trumpet by Command of both Houſes, who will with all convenient ſpeed return an Anſwer to His Majesty, and reſt</hi>
+               </p>
+               <closer>
+                  <signed>Your loving Friends,
+<list>
+                        <item>
+                           <hi>Grey</hi> of <hi>Wark</hi> Speaker of the Houſe of Peers <hi>pro Tempore.</hi>
+                        </item>
+                        <item>
+                           <hi>William Lenthall</hi> Speaker of the Houſe of Commons.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>For Sir <hi>Thomas Glem<g ref="char:EOLhyphen"/>ham</hi> Governour of Oxford.</trailer>
+            </div>
+            <div type="royal_letter">
+               <opener>
+                  <signed>CHARLES R.</signed>
+               </opener>
+               <p>HIs Majeſty cannot but extremely wonder, that after ſo many Expreſſions on your part, of a deep and ſeeming ſenſe of the miſeries of this af<g ref="char:EOLhyphen"/>flicted Kingdom, and of the dangers incident to His Perſon during the continuance of this unnaturall War, your many great and ſo often repeated Pro<g ref="char:EOLhyphen"/>teſtations, that the raiſing of theſe Arms hath been only for the neceſſary defence of Gods true Reli<g ref="char:EOLhyphen"/>gion, His Majeſties Honour, Safety and Proſperity, the Peace, Comfort and Security of His People, you ſhould delay a ſafe Conduct to the perſons mentio<g ref="char:EOLhyphen"/>ned in His Majeſties Meſſage of the fifth of this in<g ref="char:EOLhyphen"/>ſtant <hi>December,</hi> which are to be ſent unto you with Propoſitions for a well grounded Peace: A thing ſo far from having been denied at any time by His
+<pb n="5" facs="tcp:113412:2"/>Majeſty, whenſoever you have deſired the ſame, that he believes it hath been ſeldom (if ever) practi<g ref="char:EOLhyphen"/>ſed among the moſt avowed and profeſſed enemies, much leſſe from Subjects to their King. But His Majeſty is reſolved, that no diſcouragements what<g ref="char:EOLhyphen"/>ſoever ſhall make Him fail of His part, in doing His uttermoſt endeavours to put an end to theſe Cala<g ref="char:EOLhyphen"/>mities, which if not in time prevented, muſt prove the ruine of this unhappy Nation; And therefore doth once again deſire, That a ſafe Conduct may be forthwith ſent for thoſe perſons expreſſed in His former Meſſage, and doth therefore Conjure you, as you will anſwer to Almighty God, in that day when he ſhal make inquiſition for all the Blood that hath and may yet be ſpilt in this unnaturall War, as you tender the preſervation and eſtabliſhment of the true Religion; by all the Bonds of Duty and Alle<g ref="char:EOLhyphen"/>giance to your King, or compaſſion to your bleed<g ref="char:EOLhyphen"/>ing, and unhappy Country, and of Charity to your ſelves, that you diſpoſe your hearts to a true ſenſe, and imploy all your faculties in a more ſerious en<g ref="char:EOLhyphen"/>deavour, together with His Majeſty, to ſet a ſpeedy end to theſe waſting Diviſions, and then he ſhall not doubt, but that God will yet again give the bleſſing of Peace to this diſtracted Kingdom.</p>
+               <closer>
+                  <dateline>Given at the Court at Oxford,<date> the 15. of December, 1645.</date>
+                  </dateline>
+               </closer>
+               <trailer>For the Speaker of the Houſe of Peers <hi>pro tempore.</hi>
+               </trailer>
+            </div>
+            <div type="royal_letter">
+               <opener>
+                  <signed>CHARLES R.</signed>
+               </opener>
+               <p>NOtwithſtanding the ſtrange and unexpected delayes (which can be preſidented by no former times) to His Majeſties two former Meſſages, His Majeſty will lay aſide all
+<pb n="6" facs="tcp:113412:3"/>Expoſtulations, as rather ſerving to loſe time, then to con<g ref="char:EOLhyphen"/>tribute any remedy to the evils, which (for the preſent) do afflict this diſtracted Kingdom; Therefore without farther Preamble, His Majeſty thinks it moſt neceſſary to ſend theſe Propoſitions this way, which He intended to do by the Per<g ref="char:EOLhyphen"/>ſons mentioned in His former Meſſages, though He well knows the great diſadvantage, which Overtures of this kinde have, by the want of being accompanied by well inſtructed Meſſengers.</p>
+               <p>His Majeſty conceiving that the former Treaties have hi<g ref="char:EOLhyphen"/>therto proved ineffectual, chiefly for want of power in thoſe perſons that Treated, as likewiſe becauſe thoſe from whom their power was derived (not poſſibly having the particular informations of every ſeveral debate) could not give ſo clear a Iudgement as was requiſite in ſo important a buſineſſe; If therefore His Majeſty may have the engagement of the two Houſes of Parliament at <hi>Weſtminſter,</hi> the Commiſſioners of the Parliament of <hi>Scotland,</hi> the Major, Aldermen, Common-Councel, and Militia of <hi>London,</hi> of the chief Commanders in Sir <hi>Thomas Fairfax's</hi> Army, as alſo of thoſe in the <hi>Scots</hi> Ar<g ref="char:EOLhyphen"/>my, for His Majeſties free and ſafe coming to, and abode in <hi>London</hi> or <hi>Weſtminſter,</hi> (with ſuch of His Servants now atten<g ref="char:EOLhyphen"/>ding Him, and their Followers, not exceeding in all the num<g ref="char:EOLhyphen"/>ber of 300) for the ſpace of forty dayes, and after the ſaid time for his free and ſafe repair to any of His Garriſons of <hi>Oxford, Worceſter,</hi> or <hi>Newark.</hi> (which His Majeſty ſhall nominate at any time before His going from <hi>London</hi> or <hi>Weſtminſter,</hi>) His Majeſty propounds to have a Perſonal Treaty with the two Houſes of Parliament at <hi>Weſtminſter,</hi> and the Commiſſioners of the Parliament of <hi>Scotland,</hi> up on all matters which may con<g ref="char:EOLhyphen"/>duce to the reſtoring of Peace and happineſs to theſe miſera<g ref="char:EOLhyphen"/>bly diſtracted Kingdoms; And to begin with the three Heads which were Treated on at <hi>Vxbridge.</hi> And for the better clea<g ref="char:EOLhyphen"/>ring of His Majeſties earneſt &amp; ſincere intentions of putting an end to theſe unnatural Diſtractions, (knowing that point of ſecurity may prove the greateſt obſtacle to this moſt bleſ<g ref="char:EOLhyphen"/>ſed work) His Majeſty therefore Declares, That He is willing
+<pb n="7" facs="tcp:113412:3"/>to commit the great Truſt of the <hi>Milition</hi> of this Kingdom, for ſuch time, and with ſuch Powers, as are expreſt in the Paper delivered by His Majeſties Commiſſioners at <hi>Vxbridge,</hi> the 6. of <hi>February</hi> laſt, to theſe Perſons following, <hi>viz.</hi> The Lord <hi>Privy Seal,</hi> the Duke of <hi>Richmond,</hi> the Marqueſſe of <hi>Here<g ref="char:EOLhyphen"/>ford,</hi> the Marqueſſe of <hi>Dorcheſter,</hi> the Earl of <hi>Dorſet,</hi> Lord Chamberlain, the Earl of <hi>Northumberland,</hi> the Earl of <hi>Eſſex,</hi> Earl of <hi>Southampton,</hi> Earl of <hi>Pembroke,</hi> Earl of <hi>Sa<g ref="char:EOLhyphen"/>lisbury,</hi> Earl of <hi>Mancheſter,</hi> Earl of <hi>Warwick,</hi> Earl of <hi>Den<g ref="char:EOLhyphen"/>bigh,</hi> Earl of <hi>Chichiſter,</hi> Lord <hi>Say,</hi> Lord <hi>Seymour,</hi> Lord <hi>Lucas,</hi> Lord <hi>Lexington,</hi> M. <hi>Denzill Hollis,</hi> M. <hi>Pierrepent,</hi> M. <hi>Henry Bellaſis,</hi> M. <hi>Richard Spencer,</hi> Sir <hi>Thomas Fairfax,</hi> M. <hi>John Aſh<g ref="char:EOLhyphen"/>burnham,</hi> Sir <hi>Gervas Cliſeon,</hi> Sir <hi>Henry Vane junior,</hi> M. <hi>Robert Wallop,</hi> M. <hi>Thomas Chichely,</hi> M. <hi>Oliver Cromwell,</hi> and M. <hi>Philip Skippon,</hi> ſuppoſing that theſe are Perſons againſt whom there can be no juſt exception: But if this doth not ſatisfie, then His Majeſty offers to name the one half, and leave the other to the election of the two Houſes of Parliament at <hi>Weſtminſter,</hi> with the Powers and Limitations before mentioned.</p>
+               <p>Thus His Majeſty calls God and the World to witneſſe, of His ſincere Intentions and reall Endeavours, for the compo<g ref="char:EOLhyphen"/>ſing and ſeting of theſe miſerable Diſtractions; which He doubts not, but by the bleſſing of God, will ſoon be put to a happy Concluſion, if this His Majeſties offer be accepted<g ref="char:punc">▪</g> Otherwiſe He leaves all the World to Iudge, who are the Continuers of this unnaturall War. And therefore He once more Conjures you, by all the Bonds of Duty you owe to God and your King, to have ſo great a Compaſſion on the bleeding and miſerable Eſtate of your Country, That you joyne your moſt ſerious and hearty Endeavours with His Majeſty, to put a happy and ſpeedy end to theſe preſent Miſeries.</p>
+               <closer>
+                  <dateline>Given at the Court at <hi>OXFORD</hi> 
+                     <date>the <hi>26</hi> of <hi>December, 1645.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+               <trailer>For the Speaker of the Houſe of Peers <hi>pro tem<g ref="char:EOLhyphen"/>pore,</hi> To be Communicated to the two Houſes of Parliament at <hi>Weſtminſter, </hi> and the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Parliament of <hi>Scotland.</hi>
+               </trailer>
+            </div>
+            <div type="Parliamentary_response">
+               <pb n="8" facs="tcp:113412:4"/>
+               <opener>
+                  <salute>May it pleaſe your <hi>Majeſty,</hi>
+                  </salute>
+               </opener>
+               <p>
+                  <hi>THE Lords and Commons Aſſembled in the Parliament of</hi> England <hi>at</hi> Weſtminſter, <hi>have received your Letters of the</hi> 5th <hi>and</hi> 15th <hi>of this inſtant</hi> December, <hi>and having, together with the Commiſſioners of the Parliament of</hi> Scotland, <hi>taken the ame into their ſerious conſideration, do humbly return this An<g ref="char:EOLhyphen"/>wer.</hi>
+               </p>
+               <p>
+                  <hi>They have in all their Actions manifeſted to Your</hi> Majeſty <hi>and the World, their ſincere and carneſt deſires, that a ſafe and well grounded Peace might be ſetled in Your three Kingdoms<g ref="char:punc">▪</g> and for the obtaining ſo great a Bleſſing, ſhall ever pray to God, and uſe their utmoſt endeavours, and beſeech Your<g ref="char:punc">▪</g> Majeſty to believe, that their not ſending a more ſpeedy Anſwer, hath not prooceeded from any intention to retard the means of putting an end to theſe preſent Calamities by a happy Peace, but hath been occaſioned by the Conſiderations and Debates neceſſary in a buſi<g ref="char:EOLhyphen"/>neſſe of ſo great importance, wherein both Kingdoms are ſo much concerned.</hi>
+               </p>
+               <p>
+                  <hi>As to Your Majeſties deſire of a ſafe Conduct for the coming hither of the Duke of</hi> Richmond, <hi>the Earl of</hi> Southampton, John Arſhburnham <hi>and</hi> Ieffrey Palmer <hi>Eſquires, with Propo<g ref="char:EOLhyphen"/>ſitions to be the foundation of a happy and well grounded Peace, They finding that former Treaties have been made uſe of for other ends under the pretence of Peace, and have proved delatory, and unſucceſſeful, cannot give way to a ſafe Conduct according to Your Majeſties deſire; But both Houſes of the Parliament of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>having now under their Conſideration Propoſitions and Bills for the ſetling of a ſafe and well grounded Peace, which are ſpeedily to be communicated to the Commiſſioners of the Kingdom of</hi> Scot<g ref="char:EOLhyphen"/>land, <hi>do reſolve after mutuall agreement of both Kingdoms to preſent them with all ſpeed to Your Majeſty.</hi>
+               </p>
+               <closer>
+                  <dateline>Weſtminſter <date>the 25. December, 1645.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Gray of Wark</hi> Speaker of the Houſe of Peers <hi>pro tempore.</hi>
+                        </item>
+                        <item>
+                           <hi>William Lenthall</hi> Speaker of the Houſe of Commons.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="royal_letter">
+               <pb n="9" facs="tcp:113412:4"/>
+               <opener>
+                  <signed>CHARLES R.</signed>
+               </opener>
+               <p>ALthough the Meſſage ſent by Sir <hi>Peter Killegrew,</hi> may juſtly require an expoſtulatory Anſwer, yet His Majeſty layes that aſide, as not ſo proper for His preſent Endeavours; leaving all the World to judge, whether His Propoſition for a Perſonal Treaty, or the flat denial of a ſafe Conduct for Perſons to begin a Treaty, be greater ſignes of a real Intention to Peace; and ſhall now onely inſiſt upon His former Meſſage of the 26 of this <hi>December:</hi> That upon His repair to <hi>Weſtminſter,</hi> He doubts not but ſo to joyn His Endeavours with His two Houſes of Parliament, as to give juſt ſatisfaction, not onely con<g ref="char:EOLhyphen"/>cerning the buſineſſe of <hi>Ireland,</hi> but alſo for the ſetling of a way for the payment of the Publike Debts, as well to the <hi>Scots,</hi> and to the City of <hi>London,</hi> as others. And as already He hath ſhewn a fair way for the ſetling of the <hi>Militia.</hi> ſo He ſhall carefully Endeavour in all other Particulars, that none ſhall have cauſe to complain for want of ſecurity, whereby juſt Jealouſies may ariſe to hinder the continuance of the deſired Peace. And certainly this Propoſition of a Perſonal Treaty could never have entred into His Majeſties Thoughts, if He had not reſolv'd to make ap<g ref="char:EOLhyphen"/>parent to all the World, that the Publike good and Peace of this Kingdom, is far dearer to Him then the reſpect of any par<g ref="char:EOLhyphen"/>ticular intereſt. Wherefore none can oppoſe this Motion, with<g ref="char:EOLhyphen"/>out a manifeſt demonſtration, that he particularly envies His Majeſty ſhould be the chief Author in ſo bleſſed a Work, be<g ref="char:EOLhyphen"/>ſides the declaring Himſelf a direct oppoſer of the happy Peace of theſe Nations. To conclude, whoſoever will not be aſhamed, that His fair<g ref="char:punc">▪</g> and ſpecious Proteſtations ſhould be brought to a trune and Publike Teſt; and thoſe who have a real ſence, and do truely commiſerate the miſeries of their bleeding Country, let them ſpeedily and cheerfully embrace His Majeſties Propoſition for His Perſonal Treaty at <hi>Weſtminſter,</hi> which, by the bleſſing of God, will undoubtedly to theſe now diſtracted Kingdoms, reſtore the happineſſe of a long wiſht for, and laſting Peace.</p>
+               <closer>
+                  <dateline>Given at the Court at <hi>Oxford,</hi> 
+                     <date>the <hi>29</hi> day of <hi>December. 1645.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+               <trailer>For the Speaker of the Houſe of Peers <hi>pro tempore,</hi> to be Communicated to the two Houſes of Parliament at <hi>Weſtminſter,</hi> and the Commiſsioners of the Partiament of <hi>Scotland.</hi>
+               </trailer>
+            </div>
+            <div type="royal_letter">
+               <pb n="8" facs="tcp:113412:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:113412:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:113412:6"/>
+               <opener>
+                  <signed>CHARLES R.</signed>
+               </opener>
+               <p>BUt that theſe are times, wherein nothing is ſtrange; it were a thing much to be marvailed at, what ſhould cauſe this un<g ref="char:EOLhyphen"/>paralell'd long detention of His Majeſties Trumpet, ſent with His Gracious Meſſage of the 26 of <hi>December</hi> laſt; Peace being the only Subject of it, and His Majeſties Perſonal Treaty, the means propoſed for it. And it were almoſt as great a wonder, that His Majeſty ſhould be ſo long from inquiring after it, if that the hourly expectation thereof, had not, in ſome meaſure ſatis<g ref="char:EOLhyphen"/>fied His Impatience: But leaſt His Majeſty by His long ſilence; ſhould condemn himſelf of Careleſneſſe in that, which ſo much concerns the good of all His People, He thinks it high time to inquire after His ſaid Trumpeter; For ſince all men, who pre<g ref="char:EOLhyphen"/>tend any goodneſſe, muſt deſire Peace; and that all men know Treaties, to be the beſt and moſt Chriſtian way to procure it<g ref="char:punc">▪</g> and there being as little queſtion, that His Majeſties Perſonal Preſence in it, is the likelieſt way to bring it to a happy Iſſue; He judges there muſt be ſome ſtrange variety of accidents, which cauſeth this moſt tedious delay; Wherefore His Majeſty ear<g ref="char:EOLhyphen"/>neſtly deſires to have a ſpeedy Account of His former Meſſage, the ſubject whereof is Peace, and the means His Perſonal Pre<g ref="char:EOLhyphen"/>ſence at <hi>Weſtminſter,</hi> where the Government of the Church be<g ref="char:EOLhyphen"/>ing ſetled, as it was in the times of the happy and glorious Reignes of Queen <hi>Elizabeth</hi> and King <hi>Iames,</hi> with full Liberty for the eaſe of their Conſciences, who will not communicate in that Service eſtabliſhed by Law, and likewiſe for the free and publike uſe of the <hi>Directory</hi> (preſcribed, and by Command of the two Houſes of Parliament, now practiſed in ſome parts of the City of <hi>London</hi>) to ſuch as ſhall deſire to uſe the ſame, and all Forces being agreed to be Disbanded, His Majeſty will then forthwith (as He hath in His Meſſage of the 29 of <hi>December</hi> laſt, already offered) joyn with His two Houſes Parliament, in ſetling ſome way for the payment of the Publike Debts to His <hi>Scots</hi> Subjects, the City of <hi>London,</hi> and others: And His Maje<g ref="char:EOLhyphen"/>ſty having propoſed a fair way, for the ſetling of the <hi>Militia,</hi> which now by this long delay, ſeems not to be thought ſuffici<g ref="char:EOLhyphen"/>ent ſecurity: His Majeſty (to ſhew how really He will im<g ref="char:EOLhyphen"/>ploy Himſelf at His comming to <hi>Weſtminſter</hi>) for making this
+<pb n="11" facs="tcp:113412:6"/>a laſting Peace, and taking away all jealouſies, (how ground<g ref="char:EOLhyphen"/>leſſe ſoever) will endeavour upon debate with His two Houſes, ſo to diſpoſe of it (as likewiſe of the buſineſſe of <hi>Ireland</hi>) as may give to them and both Kingdoms juſt ſatisfaction; not doubting alſo, but to give good contentment to His two Houſes of Parliament in the choice of the Lord Admiral, the Officers of State and others, if His two Houſes, by their ready inclinations to Peace ſhall give Him encouragement thereunto. Thus His Majeſty having taken occaſion by His juſt impatience ſo to ex<g ref="char:EOLhyphen"/>plain His <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, that no man can doubt of a happy Iſſue to this <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reaty: If now, there ſhall be ſo much as a de<g ref="char:EOLhyphen"/>lay of the ſame; He calls God and the World to witneſſe, who they are, that not only hinder, but reject this Kingdoms future happineſſe, It being ſo much the ſtranger, that His Majeſties coming to <hi>Weſtminſter,</hi> (which was firſt the greateſt pretence for taking up Arms) ſhould be ſo much as delayed, much leſſe not accepted or refuſed; But His Majeſty hopes, that God will no longer ſuffer the malice of Wicked men to hinder the Peace of this too much afflicted Kingdom.</p>
+               <closer>
+                  <dateline>Given at the Court at <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> 
+                     <date>the <hi>15</hi> of <hi>Ianuary, 1645.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+               <trailer>For the Speaker of the Houſe of Peers <hi>pro tempore,</hi> To be Communicated to the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment at <hi>Weſtminſter, </hi> and the Commiſſioners of the Parliament of <hi>Scotland.</hi>
+               </trailer>
+            </div>
+            <div type="Parliamentary_response">
+               <opener>
+                  <salute>May it pleaſe your Majeſty,</salute>
+               </opener>
+               <p>VVE Your Humble and Loyal Subjects of both King<g ref="char:EOLhyphen"/>doms, have received Your Letters of the <hi>26</hi> and <hi>29</hi> of <hi>December</hi> laſt; unto which we humbly return this Anſwer.</p>
+               <p>That there hath been no delay on our parts, but what was ne<g ref="char:EOLhyphen"/>ceſſary in a buſineſſe of ſo great conſequence, as is expreſſed in our former Letter to Your Majeſty.</p>
+               <p>Concerning the perſonal Treaty deſired by Your Majeſty, There having been ſo much innocent blood of Your good Subjects ſhed in this War, by Your Majeſties Commands and Commiſſions, Iriſh Rebels brought over into both Kingdoms, and endeavours to bring over more into both of them, as alſo Forces from Forraign parts;
+<pb n="12" facs="tcp:113412:7"/>Your Majeſty being in Arms in theſe parts, the Prince in the head of an Army in the Weſt, divers Towns made Garriſons, and kept in Hoſtility by Your Majeſty againſt the Parliament of <hi>England<g ref="char:punc">▪</g>
+                  </hi> There being alſo Forces in <hi>Scotland</hi> againſt that Parliament and Kingdom by Your Majeſties Commiſſion: The War in <hi>Ireland</hi> f<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ented and prolonged by Your Majeſty, whereby the three King<g ref="char:EOLhyphen"/>doms are brought near to utter ruine and deſtruction. We conceive, That until ſatisfaction and ſecurity be firſt given to both Your Kingdoms, Your Majeſties coming hither cannot be convenient, nor by in aſſented unto. Neither can we apprehend in a means con<g ref="char:EOLhyphen"/>ducing to Peace, That Your Majeſty ſhould come to Your Parlia<g ref="char:EOLhyphen"/>ment for a few dayes, with any thoughts of leaving it; eſpecially with intentions of returning to Hoſtility againſt it. And We do obſerve, That Your Majeſty deſires the Ingagement, not only of the Parliaments, but of the Lord Mayor, Aldermen, Common-Coun<g ref="char:EOLhyphen"/>cel, and Militia of the City of <hi>London,</hi> the chief Commanders of Sir <hi>Thomas Fairfax</hi>'s Army, and thoſe of the <hi>Scots</hi> Army, which is againſt the Priviledges and Honour of the Parliaments, theſe be<g ref="char:EOLhyphen"/>ing joyned with them, who are ſubject and ſubordinate to their Authority.</p>
+               <p>That which Your Majeſty againſt the freedom of the Parlia<g ref="char:EOLhyphen"/>ments inforces in both Your Letters with many earneſt expreſſions, as if in no other way then that propounded by Your Majeſty, the Peace of Your Kingdoms could be eſtabliſhed, Your Majeſty may pleaſe to remember, That in Our laſt Letter, We did Declare, That Propoſitions from both Kingdoms were ſpeedily to be ſent to Your Majesty, which We conceive to be the only way for attaining a hap<g ref="char:EOLhyphen"/>py and well-grounded Peace, and Your Majeſties aſſent unto thoſe Propoſitions, will be an effectual means for giving ſatisfaction and ſecurity to your Kingdoms: will aſſure a firm <g ref="char:V">Ʋ</g>nion between the two Kingdoms, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nch deſired by each for other as for themſelves; And ſettle Religion and ſecure the Peace of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> whereof neither is ſo much as mentioned in Your Majeſties Letters.</p>
+               <p>And in proceeding according to theſe juſt and neceſſary grounds for the putting an end to the bleeding Calanities of theſe Nations. Your Majeſty may have the Glory to be a Principal Inſtrument in ſo happy a Work; and We (however miſinterpreted) ſhall ap<g ref="char:EOLhyphen"/>prove
+<pb n="13" facs="tcp:113412:7"/>our ſelves to God and the world, to be real and ſincere in ſeeking a ſafe and well-grounded Peace.</p>
+               <closer>
+                  <dateline>
+                     <hi>Weſtminſter,</hi> 
+                     <date>
+                        <hi>13.</hi> Jan. <hi>1645.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Grey</hi> of <hi>Wark,</hi> Speaker of the Houſe of Peers <hi>pro Tempore.</hi>
+                        </item>
+                        <item>
+                           <hi>William Lenthall,</hi> Speaker of the Houſe of Commons.</item>
+                        <item>Signed in the name and by warrant of the Com<g ref="char:EOLhyphen"/>miſſioners of the Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland.</hi> BALMERINOTH.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>For Your Majeſty.</trailer>
+            </div>
+         </div>
+         <div type="commentary">
+            <p>THis, and no more, is all they Anſwer'd to His Majeſties five Meſſages, and ſix weeks Expectation. Such as are not, drencht ſo deep in blood, as to abhorre all Peace, would chear<g ref="char:EOLhyphen"/>fully embrace His Majeſties Propoſition for a Perſonal Treaty: 'Tis the very expedient Themſelves propos'd in all their Meſ<g ref="char:EOLhyphen"/>ſages, Declarations and Speeches. But now They renounce it, foraſmuch as they finde His Majeſty <hi>in Hoſtility, and Prince Charls in the Head of an Army in the Weſt,</hi> (a ſtrange conſe<g ref="char:EOLhyphen"/>quence, That becauſe 'tis now War, therefore it ſhall never be Peace;) Though 'tis as notorious who was firſt in Arms, as who firſt began to Plunder. What they here intend by demanding of His Majeſty <hi>Satisfaction for blood-ſhed,</hi> no modeſt Chriſtian but trembles to underſtand. And 'tis as ſtrange, that His Majeſty in deſiring the joynt engagement of the City of <hi>London</hi> for His Security at <hi>Weſtminſter,</hi> ſhould violate the Priviledges of Par<g ref="char:EOLhyphen"/>liament; Remember what forc'd His Majeſty from <hi>White-Hall;</hi> thoſe tumults they pretended received no influence from any Vote of theirs; and for like aſſurance from Sir <hi>Tho. Fairfax's</hi> Ar<g ref="char:EOLhyphen"/>my. His Majeſty askes no more then Himſelf offer'd to the Earl of <hi>Eſſex</hi> in <hi>Cornwal,</hi> in a Letter ſign'd by all the chief Officers of His Majeſties Army; whom ſure they'l grant as much at His Majeſties command as Sir <hi>Thomas Fairfax's</hi> Officers or the Citizens of <hi>London</hi> can be ſubject to the Parliament. This is manifeſt, that His Majeſty hath endeavour'd all expedients in the World to heal His bleeding People, though at <hi>Weſtminſter</hi> they'l not grant ſo much as a Paſſe that His Majeſty ſhould ei<g ref="char:EOLhyphen"/>ther ſend Peace, or bring it; But rather chooſe to ſpend forty dayes in ſending two denials.</p>
+            <div type="part">
+               <pb n="14" facs="tcp:113412:8"/>
+               <head>The Anſwer.</head>
+               <p n="1">1. IT is here ſaid <hi>(This, and no more, is all they Anſwered)</hi> Thus when <hi>Naaman came with his Horſes, and with his Chariot, and ſtood at the door of the Houſe of</hi> Eliſha, <hi>2</hi> King. <hi>5.9. He in ſtead of receiving and humoring him, ſent a Meſ<g ref="char:EOLhyphen"/>ſenger to him, ſaying, Go and waſh in</hi> Jordan <hi>ſeven times, and thy fleſh ſhall come to thee, and thou ſhalt be clean: But</hi> Naaman <hi>was wrath at firſt, and went away; yet afterwards he was perſwaded to it, and ſo had his fleſh come freſh again.</hi> O that His Majeſty may be reſolved to Signe the ſeven Bills to be preſented to Him in the floods of His Peoples Tears, it will waſh off all the Leprous rabble of Papiſts and Delinquents from about Him, and reſtore Him freſh again in the glory of His ſtrength in His Parliament and People.</p>
+               <p n="2">2. It is ſaid, this is all of <hi>(five Meſſages, and ſix weeks Ex<g ref="char:EOLhyphen"/>pectation.)</hi> But who knoweth not, but that whereas His Majeſty can dispatch away a Meſſage at an inſtant, what, and when He pleaſeth; yet it is not ſo with the Parliament, there muſt be ſuch an Anſwer drawn, as is the Sence of the major part of the Houſe, that Voted by them; then to that, the Houſe of Lords muſt give their Concurrence; and after both, our Brethren of <hi>Scotland;</hi> and if any alterations be made in it, it muſt paſſe all round again, and there can be no remedy to prevent it.</p>
+               <p n="3">3. But it is further ſaid, <hi>(Such as are not drenched ſo deep in blood, as to abhor all Peace, would cheerfully embrace His Majeſties Propoſition for a Perſonal Treaty:)</hi> The Kingdom is drenched in blood indeeds, and to ſtop that effuſion. O that His Majeſty would return this one Meſſage to the Parliament (re<g ref="char:EOLhyphen"/>corded in Holy Writ) more conducing to Peace, then all Treaties, <hi>Whatſoever is commanded by the God of Heaven, let it be
+<pb n="15" facs="tcp:113412:8"/>diligently done for the houſe of the God of Heaven; for why ſhould there be wrath againſt the Realm of the King and his Sons, Ezra 7.23.</hi> That we might ſay, <hi>Bleſſed be the Lord God of our Fathers, which hath put ſuch a thing as this in the Kings heart, Verſ. 27.</hi>
+               </p>
+               <p n="4">4. Yet it is argued, <hi>('Tis the very expedient themſelves pro<g ref="char:EOLhyphen"/>poſed in all their Meſſages, Declarations, and Speeches, but now they renounce it.)</hi> But Treaties have heretofore alwayes been of ill conſequence, and lengthned the Wars; and the Parlia<g ref="char:EOLhyphen"/>ments of both Kingdoms, have ſince conſidered of better wayes for a ſafe and well-grounded Peace. The manner drawn into Propoſi<g ref="char:EOLhyphen"/>tions to be ſent to His Majeſty by way of Bills, which being Signed, the Wars are at an end, and both Kingdoms, Church, and State, ſetled at once.</p>
+               <p n="5">5. It is ſaid again, That to renounce it, (<hi>foraſmuch as they finde His Majeſty in Hoſtility, and Prince</hi> Charls <hi>in the Head of an Army in the Weſt, is a ſtrange conſequence, That becauſe it is now War, therefore it ſhall never be Peace.</hi>) Truely, the Kingdom is now ſad; but would be much more if His Majeſty ſhould come, and treat, and go again to continue in Hoſtility.</p>
+               <p n="6">6. It follows, <hi>(though it is as notorious, who was firſt in Arms, as who firſt began to plunder.)</hi> There are two Witneſſes, <hi>Windſor</hi> for the Engliſh, and <hi>York</hi> for the Iriſh, both Armed by Authority, who after riſon, they ſoon fell to plunder.</p>
+               <p n="7">7. But it is propounded thus, <hi>(What they here intend by de<g ref="char:EOLhyphen"/>manding of His Majeſty ſatisfaction for bloodſhed, no modeſt Chriſtian but trembles to underſtand.)</hi> That which they deſire is this, That His Majeſty by ſealing of thoſe Bills, gives His Royal Aſſent for the permitting of Iriſh Rebels, and Popiſh In<g ref="char:EOLhyphen"/>cendiaries, and Delinquents to be brought to a legal Tryal, to ſatisfie the Law for the innocent blood, that by their means hath been ſpilt in His Kingdoms, which will give great ſatisfaction to all Proteſtants, and well-affected Chriſtians.</p>
+               <p n="8">8. But it is alleaged again, (<hi>And 'tis as ſtrange, that His Majeſtie in deſiring the joynt ingagement of the City of</hi> London <hi>for His ſecurity at</hi> Weſtminſter, <hi>ſhould violate the Pri<g ref="char:EOLhyphen"/>viledges of Parliament: Remember what forced His Majeſty
+<pb n="16" facs="tcp:113412:9"/>from</hi> White-Hall; <hi>thoſe tumults they pretended, received to influence from any Vote of theirs.</hi>) This hath been cleared by many Declarations from the Parliament; and His Majeſties entertainment by the City when he came from <hi>Scotland,</hi> was a good teſtimony of their Loyaltie and Affection.</p>
+               <p n="9">9. Then it fellows. (<hi>And for like aſſurance from Sir</hi> Thomas Fairfax <hi>his Army, His Majeſty asked no more then Himſelf offered to the Earl of</hi> Eſſex <hi>in</hi> Cornwal, <hi>in a Letter Signed by all the chief Officers of His Majeſties Army; whom ſure they'l grant as much at His Majeſties Command, as Sir</hi> Thomas Fairfaxes <hi>Officers, or the Citizens of</hi> London, <hi>can be ſubject to the Parliament.</hi>) If His Majeſty will disband His Forces, and come to <hi>London</hi> and joyn with the Parliament, He needs not doubt, but their Subordination to Him and the Parliament, will tender him their hands and hearts, eſtates and lives, for the Protection of His Perſon, Eſtate, and Honour, and the Peace, and Safety of all His Kingdoms.</p>
+               <p n="10">10. The Concluſion is this, (<hi>This is manifeſt, that His Majeſty hath endeavoured all Expedients in the World, to heal His bleeding People, though at</hi> Westminster <hi>they'l not grant ſo much as a Paſs, that His Majeſty ſhould either ſend Peace, or bring it; but rather chooſe to ſpend fourty dayes in ſending two denials.</hi>) The Propoſitions for Peace will be ſpeedily ſent, whereby His Majeſty may ſee how deſirous they are, both to enjoy His Preſence, and Peace too. God direct that work which was <hi>done from above,</hi> (which <hi>James</hi> ſaith, <hi>Jam. 3.17.</hi>) Its firſt pure, then peaceable, gentle, and eaſie to be entertained, full of mercy, and good fruits, without partialitie, and without hypocriſie.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Publiſhed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
